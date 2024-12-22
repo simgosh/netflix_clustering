@@ -2,7 +2,7 @@
    This project is related to Netflix movies and shows. 
    It contains almost 13 columns and 5489 lines. Deeply data mining and exploratory data analysis were made. Some Statistical calculations, visualizations, and KMeans Clustering were made. 
    PCA is applied, and then for finding to optimal cluster numbers, it was calculated Silhouette Score for each number of cluster. 
-  Such as Correlation, Variance and Cumulative Variance were calculated.
+  Such as Correlation, Variance and Cumulative Variance were calculated. Different cluster numbers were visualized.
 
 # Some graphs are shared below:
 
@@ -54,5 +54,16 @@
 ![silhouetteskor](https://github.com/user-attachments/assets/ec60c0ed-4387-4927-96d3-e2f0fc450355)
 
 
+![cluster222](https://github.com/user-attachments/assets/e82fc6ff-881b-4986-863f-c36875daeaa9)
+
+
 ![clustering](https://github.com/user-attachments/assets/e26fae66-7223-42d6-94fa-6e9f82515d0b)
+
+
+![cluster444](https://github.com/user-attachments/assets/eec24bdc-51ea-412a-bc36-e1d3f5e79597)
+
+
+![cluster55](https://github.com/user-attachments/assets/e25f6018-65b0-4a00-b0c4-9781e31fa523)
+
+
 
