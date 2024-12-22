@@ -67,3 +67,6 @@
 
 
 
+
+Dataset taken from Kaggle : https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data
+
