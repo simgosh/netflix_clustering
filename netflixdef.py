@@ -773,7 +773,7 @@ def evaluate_clusters(pca_df, min_clusters=2, max_clusters=12):
 
 def clustering(pca_df):
     # Applying K-means clustering
-    kmeans = KMeans(n_clusters=3, random_state=42, init='k-means++', max_iter=500, n_init=20)  # Set number of clusters to 4, bc acc. to silhouette skor
+    kmeans = KMeans(n_clusters=5, random_state=42, init='k-means++', max_iter=500, n_init=20)  # Set number of clusters to 4, bc acc. to silhouette skor
     kmeans.fit(pca_df)
 # Add the cluster labels to the pca_df
     pca_df['Cluster'] = kmeans.labels_
