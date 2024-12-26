@@ -7,11 +7,8 @@ from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bo
 import skfuzzy as fuzz
 
 # Loading the datasets
-df = pd.read_csv("/Users/sim/dev/python/lasttt/data/data/credits.csv")
-print(df.head())
-
-df1 = pd.read_csv("/Users/sim/dev/python/lasttt/data/data/titles.csv")
-print(df1.head())
+df = pd.read_csv("~/dev/python/credits.csv")
+df1 = pd.read_csv("~/dev/python/titles.csv")
 
 # Dropping duplicates
 df = df.drop_duplicates()
