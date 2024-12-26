@@ -1,4 +1,4 @@
-## Netflix Movies/Shows Exploratory Data Analysis & Visualization & KMeans Clustering ##
+## Netflix Movies/Shows Exploratory Data Analysis & Visualization & KMeans Clustering & CVI (ClusterValidationIndex) ##
    This project is related to Netflix movies and shows. 
    It contains almost 13 columns and 5489 lines. Deeply data mining and exploratory data analysis were made. Some Statistical calculations, visualizations, and KMeans Clustering were made. 
    PCA is applied, and then for finding to optimal cluster numbers, it was calculated Silhouette Score for each number of cluster. 
