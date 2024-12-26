@@ -4,6 +4,8 @@
    PCA is applied, and then for finding to optimal cluster numbers, it was calculated Silhouette Score for each number of cluster. 
   Such as Correlation, Variance and Cumulative Variance were calculated. Different cluster numbers were visualized.
 
+  Cluster Validation Indexes were calculated to evaluate cluster validation and quality.
+  
 # Some graphs are shared below:
 
 ![pie1](https://github.com/user-attachments/assets/f4956f45-d448-4eef-83b9-15b3fdfca638)
@@ -64,6 +66,10 @@
 
 
 ![cluster55](https://github.com/user-attachments/assets/e25f6018-65b0-4a00-b0c4-9781e31fa523)
+
+
+<img width="719" alt="Screenshot 2024-12-26 at 2 37 26 PM" src="https://github.com/user-attachments/assets/24324f95-167c-407c-85f6-9a371eca22ca" />
+
 
 
 
