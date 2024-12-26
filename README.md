@@ -4,7 +4,7 @@
    PCA is applied, and then for finding to optimal cluster numbers, it was calculated Silhouette Score for each number of cluster. 
   Such as Correlation, Variance and Cumulative Variance were calculated. Different cluster numbers were visualized.
 
-  Cluster Validation Indexes were calculated to evaluate cluster validation and quality.
+  Cluster Validation Indexes were calculated to evaluate cluster validation and quality with Fuzzy clustering. (Partition Entropy, Partition Coefficient, Calinski-Harabasz Score, Fuzzy Silhouette Score)
   
 # Some graphs are shared below:
 
