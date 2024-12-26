@@ -14,8 +14,8 @@ from sklearn.manifold import TSNE
 # Load and preprocess datasets
 def load_and_preprocess_data():
     # Load the datasets
-    df = pd.read_csv("~/dev/python/credits.csv")
-    df1 = pd.read_csv("~/dev/python/titles.csv")
+    df = pd.read_csv("netflix_clustering/data/credits.csv")
+    df1 = pd.read_csv("netflix_clustering/data/titles.csv")
 
     # Remove duplicates
     df = df.drop_duplicates()
